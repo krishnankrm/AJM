@@ -1,0 +1,6 @@
+{
+    "mongoclienturl":"mongodb://127.0.0.1:27017/AJM?directConnection=true",
+    "mqttip":"13.126.193.19",
+    "mqtt_username" : "isliot",
+    "mqtt_password" : "Isl@iot"
+}
